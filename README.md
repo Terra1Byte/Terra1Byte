@@ -1,3 +1,6 @@
+[![Typing SVG](https://demolab.com!)](https://git.io)
+
+
 ## Hi there 👋
 
 <!--
@@ -15,5 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Typing SVG](https://demolab.com!)](https://git.io)
